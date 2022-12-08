@@ -1,0 +1,12 @@
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\bin\Debug\oopCarsExam.exe.config
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\bin\Debug\oopCarsExam.exe
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\bin\Debug\oopCarsExam.pdb
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\obj\Debug\oopCarsExam.csproj.AssemblyReference.cache
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\obj\Debug\oopCarsExam.csproj.SuggestedBindingRedirects.cache
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\obj\Debug\oopCarsExam.Form1.resources
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\obj\Debug\oopCarsExam.Properties.Resources.resources
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\obj\Debug\oopCarsExam.csproj.GenerateResource.cache
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\obj\Debug\oopCarsExam.csproj.CoreCompileInputs.cache
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\obj\Debug\oopCarsExam.exe
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\obj\Debug\oopCarsExam.pdb
+C:\Users\twigp\source\repos\oopCarsExam\oopCarsExam\bin\Debug\CarsDatabase.accdb
